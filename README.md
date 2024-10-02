@@ -1,0 +1,1 @@
+# plugins-remove-protected-in-title
